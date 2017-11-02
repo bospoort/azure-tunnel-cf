@@ -1,6 +1,6 @@
 applications:
-  - name:    maartenb-ws-tunnel
-    host:    maartenb-ws-tunnel
+  - name:    hyco-ws-tunnel
+    host:    hyco-ws-tunnel
     memory:  64M
     command: node server.js
     buildpack: nodejs_buildpack
